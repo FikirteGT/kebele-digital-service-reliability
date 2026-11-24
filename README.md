@@ -16,76 +16,63 @@ The study uses a **mixed-method approach**, combining quantitative and qualitati
 - Analyze the relationship between digital service reliability and customer satisfaction.
 - Provide recommendations for improving digital public service delivery.
 
-Team Members and Task Distribution
+## 2. Team Members and Task Distribution
 
-The research responsibilities are distributed among the five group members to ensure balanced participation and accountability.
+The research tasks are divided among the five group members to ensure balanced participation and shared responsibility.
 
-No.
+1. Feven Cherkos — Literature Review
 
-Group Member
+Review related literature and previous studies.
 
-Main Responsibility
+Identify research gaps.
 
-Assigned Tasks
+Organize references.
 
-1
+2. Fikir Tekalign — Research Background
 
-Feven Cherkos
+Prepare the research background and problem statement.
 
-Literature Review
+Develop research questions and objectives.
 
-Search for relevant studies, review related literature, identify research gaps, write the literature review, and organize references.
+Maintain meeting documentation.
 
-2
+3. Fikirte Gebretsadkan — Research Methodology
 
-Fikir Tekalign
+Prepare the research design and methodology.
 
-Research Background and Documentation
+Define the study population and sampling methods.
 
-Prepare the background, problem statement, research questions, objectives, significance, and scope. Maintain meeting notes and coordinate document formatting.
+Describe the data collection procedures.
 
-3
+4. Ruth Gezahegn — Research Instruments and Data Management
 
-Fikirte Gebretsadkan
+Prepare research instruments.
 
-Research Methodology
+Organize and manage collected data.
 
-Prepare the research design, research approach, population, sampling techniques, sample size, and data collection methods.
+Check data completeness and accuracy.
 
-4
+5. Yeabsira Birhanu — Pilot Study and Data Analysis
 
-Ruth Gezahegn
+Coordinate and document the pilot study.
 
-Research Instruments and Data Management
+Analyze collected data.
 
-Prepare questionnaires, interview guides, and observation checklists. Organize collected data, check completeness, and maintain the data folder.
-
-5
-
-Yeabsira Birhanu
-
-Pilot Study and Data Analysis
-
-Coordinate pilot testing, document revisions, conduct quantitative and qualitative analysis, prepare tables, identify themes, and interpret findings.
+Prepare and interpret research findings.
 
 Shared Responsibilities
 
-All group members are expected to:
+All members will participate in:
 
-Participate in data collection.
+Data collection and verification.
 
-Review and improve the research proposal.
+Reviewing and improving the research proposal.
 
-Contribute to writing and reviewing the final report.
+Preparing the final research report.
 
-Review and interpret research findings.
+Preparing and delivering the presentation.
 
-Prepare and participate in the final presentation.
-
-Attend group meetings and report progress.
-
-## 3. Repository Structure
-
+Attending meetings and reporting progress.
 The repository is organized into the following folders to document the different stages of the research project.
 
 | Folder           | Description                                                                                            |
