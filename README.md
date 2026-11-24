@@ -60,7 +60,7 @@ Analyze collected data.
 
 Prepare and interpret research findings.
 
-Shared Responsibilities
+# Shared Responsibilities
 
 All members will participate in:
 
