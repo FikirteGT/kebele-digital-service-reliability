@@ -16,17 +16,73 @@ The study uses a **mixed-method approach**, combining quantitative and qualitati
 - Analyze the relationship between digital service reliability and customer satisfaction.
 - Provide recommendations for improving digital public service delivery.
 
-## 2. Group Members and Roles
+Team Members and Task Distribution
 
-| Group Member         | Role           |
-| -------------------- | -------------- |
-| Feven Cherkos        | To be assigned |
-| Fikir Tekalign       | To be assigned |
-| Fikirte Gebretsadkan | To be assigned |
-| Ruth Gezahegn        | To be assigned |
-| Yeabsira Birhanu     | To be assigned |
+The research responsibilities are distributed among the five group members to ensure balanced participation and accountability.
 
-*Group responsibilities will be updated based on the roles agreed upon by the members.*
+No.
+
+Group Member
+
+Main Responsibility
+
+Assigned Tasks
+
+1
+
+Feven Cherkos
+
+Literature Review
+
+Search for relevant studies, review related literature, identify research gaps, write the literature review, and organize references.
+
+2
+
+Fikir Tekalign
+
+Research Background and Documentation
+
+Prepare the background, problem statement, research questions, objectives, significance, and scope. Maintain meeting notes and coordinate document formatting.
+
+3
+
+Fikirte Gebretsadkan
+
+Research Methodology
+
+Prepare the research design, research approach, population, sampling techniques, sample size, and data collection methods.
+
+4
+
+Ruth Gezahegn
+
+Research Instruments and Data Management
+
+Prepare questionnaires, interview guides, and observation checklists. Organize collected data, check completeness, and maintain the data folder.
+
+5
+
+Yeabsira Birhanu
+
+Pilot Study and Data Analysis
+
+Coordinate pilot testing, document revisions, conduct quantitative and qualitative analysis, prepare tables, identify themes, and interpret findings.
+
+Shared Responsibilities
+
+All group members are expected to:
+
+Participate in data collection.
+
+Review and improve the research proposal.
+
+Contribute to writing and reviewing the final report.
+
+Review and interpret research findings.
+
+Prepare and participate in the final presentation.
+
+Attend group meetings and report progress.
 
 ## 3. Repository Structure
 
